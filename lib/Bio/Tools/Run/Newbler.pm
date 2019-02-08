@@ -8,7 +8,7 @@
 
 =head1 NAME
 
-  Bio::Tools::Run::Newbler - Wrapper for local execution of Newbler
+Bio::Tools::Run::Newbler - Wrapper for local execution of Newbler
 
 =head1 SYNOPSIS
 
